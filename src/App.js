@@ -10,13 +10,18 @@ export default function App() {
       <Weather />
       <footer>
         This project was coded by{" "}
-        <a href="https://github.com/githublaure/" target="_blank">
+        <a
+          href="https://github.com/githublaure/"
+          target="_blank"
+          rel="noreferrer"
+        >
           Laure Agrech
         </a>{" "}
         and is{" "}
         <a
           href="https://github.com/githublaure/react-weather-app-laure"
           target="_blank"
+          rel="noreferrer"
         >
           open-sourced on GitHub
         </a>
