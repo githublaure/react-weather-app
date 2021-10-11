@@ -65,4 +65,3 @@ export default function Weather(props) {
     return <div>Loading</div>;
   }
 }
-s;
