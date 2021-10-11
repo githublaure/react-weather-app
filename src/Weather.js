@@ -42,13 +42,14 @@ export default function Weather(props) {
             <div className="col-6">
               <input
                 type="text"
-                placeholder="Enter City..."
+                placeholder="Enter a city..."
                 onChange={updateCity}
                 className="form-control"
+                autoFocus="on"
               />
             </div>
             <div className="col-6">
-              <button type="submit" className="btn btn-success col-3">
+              <button type="submit" className="btn btn-success w-100">
                 Search
               </button>
               <button type="submit" className="btn btn-primary col-3">
