@@ -9,7 +9,7 @@
   color: aquamarine;
 }
 
-.Weather .img {
+.Weather canvas {
   display: inline-block;
 }
 
