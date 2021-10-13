@@ -6,4 +6,14 @@
 .App footer {
   font-size: 11px;
   margin: 10px 0;
+  color: #ffa0a0;
+}
+
+a:link {
+  margin: 10px 0;
+  color: #ffa0a0;
+}
+
+a {
+  color: #628395;
 }
