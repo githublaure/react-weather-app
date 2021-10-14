@@ -17,3 +17,8 @@ a:link {
 a {
   color: #628395;
 }
+
+.App h1 {
+  text-align: center;
+  color: white;
+}

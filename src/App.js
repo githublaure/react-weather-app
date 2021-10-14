@@ -1,16 +1,12 @@
 import React from "react";
 import "./App.css";
 import Weather from "./Weather.js";
-import bootstrap
 export default function App() {
   return (
     <div className="App">
       {" "}
       <div className="container"></div>
       <h1>Weather App</h1>
-      <button type="button" class="btn btn-primary">
-        Primary
-      </button>
       <Weather defaultCity="Paris" />
       <footer>
         This project was coded by{" "}
@@ -28,7 +24,7 @@ export default function App() {
           rel="noreferrer"
         >
           open-sourced on GitHub
-        </a>
+        </a>{" "}
         and{" "}
         <a
           href="https://react-weather-app-laure.netlify.app"
