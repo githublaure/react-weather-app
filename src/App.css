@@ -6,16 +6,16 @@
 .App footer {
   font-size: 11px;
   margin: 10px 0;
-  color: #ffa0a0;
+  color: #9fd3c7;
 }
 
 a:link {
   margin: 10px 0;
-  color: #ffa0a0;
+  color: #9fd3c7;
 }
 
-a {
-  color: #628395;
+a, a:hover, a:visited {
+  color: #9fd3c7;
 }
 
 .App h1 {
