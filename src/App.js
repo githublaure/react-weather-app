@@ -17,7 +17,7 @@ export default function App() {
         >
           Laure Agrech
         </a>{" "}
-        and is{" "}
+        , is {" "}
         <a
           href="https://github.com/githublaure/react-weather-app"
           target="_blank"
