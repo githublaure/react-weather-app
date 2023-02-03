@@ -3,10 +3,10 @@
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 15px;
-  color: #ddbebe;
+  color: #ececec;
 }
 .Weather h2 {
-  color: #6c4a4a;
+  color: #9fd3c7;
   font-size: 64px;
   line-height: 64px;
   margin-top: 5px;
@@ -17,6 +17,7 @@
 
 .Weather canvas {
   display: inline-block;
+  color-line: #385170
 }
 
 .Weather li {
@@ -35,7 +36,7 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: #c89595;
+  color: #385170;
   font-size: 34px;
   line-height: 64px;
   margin-left: 5px;
